@@ -77,6 +77,7 @@ The datasets were merged based on date and time to create a combined dataset sui
 ### Data Storage
 
 * JSON files
+* SQLite
 * Local persistence for booking data
 
 ## Main API Endpoints
